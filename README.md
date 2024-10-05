@@ -5,7 +5,7 @@
 
 🍓 **About Me**
 
-- 🔭 主要使用: Python，Golang , Javascript
+- 🔭 主要使用: Python，Golang , Javascript , Vue , Rust
 - 📫 E-mail: 35507187ch405@gmail.com
 - 👯 About me: web/misc 方向 的猴子
 - 🌐 Languages: English, 中文
@@ -22,5 +22,5 @@
 
 🎄 **Others**
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sd0ric4&layout=compact" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sd0ric4" />
 
