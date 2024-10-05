@@ -5,7 +5,7 @@
 
 🍓 **About Me**
 
-- 🔭 主要使用: Python，Golang , Javascript , Vue , Rust
+- 🔭 主要使用: Python，Golang , JavaScript , Vue , Rust
 - 📫 E-mail: 35507187ch405@gmail.com
 - 👯 About me: web/misc 方向 的猴子
 - 🌐 Languages: English, 中文
